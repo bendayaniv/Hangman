@@ -14,7 +14,7 @@ If a guessed letter does not appear at all, it is considered a mistake.
 
 ![success and faile](https://user-images.githubusercontent.com/52703125/233664602-68f96293-cb0b-4f41-9ddf-6a803c814c2e.png)
 
-## Looss
+## Loss
 
 ![loosing](https://user-images.githubusercontent.com/52703125/233664740-be747b07-1ae2-4b58-ba90-534abffe6153.png)
 
@@ -26,4 +26,4 @@ If a guessed letter does not appear at all, it is considered a mistake.
 
 You can play in any environment that supports the Python language.
 
-In addition, you need to copy the path to the text file that contains the words for the game to the console screen of the work environment (when requested)ץ
+In addition, you need to copy the path to the text file that contains the words for the game to the console screen of the work environment (when requested).
